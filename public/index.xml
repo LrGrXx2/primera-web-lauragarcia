@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Primera web Laura Garcia</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Primera web Laura Garcia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 27 Sep 2021 09:53:46 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faada</title>
+      <link>http://example.org/protectoras/faada/</link>
+      <pubDate>Mon, 27 Sep 2021 09:53:46 +0200</pubDate>
+      
+      <guid>http://example.org/protectoras/faada/</guid>
+      <description>Dirección: Rambla Prim, 155-157 Entresuelo 2ª 08020 Barcelona
+Web de Faada
+Descripción: Somos una fundación privada, independiente y sin ánimo de lucro activa desde 2004. En nuestros inicios empezamos con la actividad principal de apadrinar, adoptar y rescatar animales salvajes y de compañía. A raíz de la experiencia adquirida como profesionales del sector, en 2012, decidimos iniciar un proceso de transformación interno. Sabíamos que había llegado el momento de poner nuestro conocimiento y recursos para incidir en las causas de forma más estratégica trabajando desde la acción en el ámbito social, legislativo y educativo.</description>
+    </item>
+    
+    <item>
+      <title>Golden Retriever</title>
+      <link>http://example.org/razas/golden-retriever/</link>
+      <pubDate>Mon, 27 Sep 2021 09:48:10 +0200</pubDate>
+      
+      <guid>http://example.org/razas/golden-retriever/</guid>
+      <description>Info. general Especificación     Región de origen Escocia   Primeros registros 1850   Tamaño 51 – 61 cm de altura a la cruz   Peso Machos: 32 – 37 kg    Hembras: 27 – 32 kg    Descripción: El golden retriever o cobrador dorado es una raza de perro que se desarrolló alrededor de 1850 en el Reino Unido, más concretamente en Escocia.</description>
+    </item>
+    
+    <item>
+      <title>Bull Terrier</title>
+      <link>http://example.org/razas/bull-terrier/</link>
+      <pubDate>Mon, 27 Sep 2021 09:43:10 +0200</pubDate>
+      
+      <guid>http://example.org/razas/bull-terrier/</guid>
+      <description>Info. general Especificación     Región de origen Inglaterra   Primeros registros 1875   Tamaño mediano   Peso 28 kg    Descripción: El Bull terrier o bull terrier inglés es una raza canina de la familia de los terrier. Son conocidos por la forma única de su cabeza y sus pequeños ojos en forma triangular. Su temperamento ha sido descrito como amante de la diversión, así como activos y graciosos.</description>
+    </item>
+    
+    <item>
+      <title>Zarpa</title>
+      <link>http://example.org/protectoras/zarpa/</link>
+      <pubDate>Mon, 27 Sep 2021 09:42:46 +0200</pubDate>
+      
+      <guid>http://example.org/protectoras/zarpa/</guid>
+      <description>Dirección: Calle Colón 6-8 Zaragoza (España), C.P. 50007
+Web de Zarpa
+Descripcion: Los objetivos de la ASOCIACIÓN son los que se recogen en el capítulo I de sus Estatutos y que se resumen en la realización de todo tipo de actividades y acciones legales necesarias para mejorar las condiciones de vida de los animales. La ASOCIACIÓN considera que los problemas de malos tratos, abandonos y crueldades con los animales son una cuestión educacional, por lo que llevará a cabo un programa con todo tipo de campañas educativas e informativas a distintos niveles.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Tue, 21 Sep 2021 09:58:29 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Contacto de información  45645576 - tel cubgfreuiscvghf@gmail.com  </description>
+    </item>
+    
+  </channel>
+</rss>
